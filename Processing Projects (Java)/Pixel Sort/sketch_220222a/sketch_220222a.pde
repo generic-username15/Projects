@@ -3,8 +3,8 @@ PImage img, sorted;
 
 void setup(){
   size(2320, 4128);
-  //fullScreen();
-  img = loadImage("niebo.jpg");
+  
+  img = loadImage("image.jpg");
   sorted = createImage(img.width,img.height,RGB);
   sorted.loadPixels();
   img.loadPixels();
@@ -44,25 +44,17 @@ void sortIt(int x, int y, int w, int h){
   }
 }
 void draw(){
-  //background(255);
-  //push();
-  //translate(600,0);
-  //rotate(PI/2);
-  //image(img,0,0,600,600);
-  //pop();
-  //push();
-  //translate(1200,0);
-  //rotate(PI/2);
-  //image(sorted,0,0,600,600);
-  //pop();
-  
-  
-  //image(img,0,0,600,600);
-  //image(sorted,600,0,600,600);
-  
-  
-  image(sorted,0,0);
-  save("sorted.png");
+  background(255);
+  push();
+  translate(600,0);
+  rotate(PI/2);
+  image(img,0,0,600,600);
+  pop();
+  push();
+  translate(1200,0);
+  rotate(PI/2);
+  image(sorted,0,0,600,600);
+  pop();
 }
 
 
