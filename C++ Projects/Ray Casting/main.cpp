@@ -16,20 +16,18 @@ int main() {
     const int width = win.getSize().x / 2;
     // definition of Player object
     player Player = player(50,50);
-    //filling boundries vector with walls
-    std::vector<wall> boundries;
-    boundries.emplace_back(wall(0,0,0,height));
-    boundries.emplace_back(wall(0,height, width,height));
-    boundries.emplace_back(wall(width,height, width,0));
-    boundries.emplace_back(wall(width,0,0,0));
-    boundries.emplace_back(wall(200,200,200,1000));
-    boundries.emplace_back(wall(200,800,0,800));
-    boundries.emplace_back(wall(600,0,600,1000));
-    boundries.emplace_back(wall(700,300,700,1200));
-    boundries.emplace_back(wall(800,300,1200,1200));
-//    for (int i = 0; i < 10; i++){
-//        boundries.emplace_back(randomWall(width,height));
-//    }
+    //filling boundaries vector with walls
+    std::vector<wall> boundaries;
+    boundaries.emplace_back(wall(0,0,0,height));
+    boundaries.emplace_back(wall(0,height, width,height));
+    boundaries.emplace_back(wall(width,height, width,0));
+    boundaries.emplace_back(wall(width,0,0,0));
+    boundaries.emplace_back(wall(200,200,200,1000));
+    boundaries.emplace_back(wall(200,800,0,800));
+    boundaries.emplace_back(wall(600,0,600,1000));
+    boundaries.emplace_back(wall(700,300,700,1200));
+    boundaries.emplace_back(wall(800,300,1200,1200));
+
     // calling the create rays function for Player object
     Player.create_rays();
 
@@ -57,8 +55,8 @@ int main() {
         win.clear();
 
 
-        //calling show function for every wall in boundries vector
-        for(wall W : boundries){
+        //calling show function for every wall in boundaries vector
+        for(wall W : boundaries){
             W.show();
         }
 
