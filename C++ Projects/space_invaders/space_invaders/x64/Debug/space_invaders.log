@@ -1,0 +1,141 @@
+﻿  functions_and_methods.cpp
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(54,50): warning C4244: "argument": konwersja z "_Ty2" do "float", możliwa utrata danych
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(54,34): warning C4244: "argument": konwersja z "_Ty1" do "float", możliwa utrata danych
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(55,31): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(72,58): warning C4244: "argument": konwersja z "_Ty2" do "float", możliwa utrata danych
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(72,42): warning C4244: "argument": konwersja z "_Ty1" do "float", możliwa utrata danych
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(73,41): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(77,58): warning C4244: "argument": konwersja z "_Ty2" do "float", możliwa utrata danych
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(77,42): warning C4244: "argument": konwersja z "_Ty1" do "float", możliwa utrata danych
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(78,41): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(82,58): warning C4244: "argument": konwersja z "_Ty2" do "float", możliwa utrata danych
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(82,42): warning C4244: "argument": konwersja z "_Ty1" do "float", możliwa utrata danych
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(83,41): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(90,50): warning C4244: "argument": konwersja z "_Ty2" do "float", możliwa utrata danych
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(90,34): warning C4244: "argument": konwersja z "_Ty1" do "float", możliwa utrata danych
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(91,33): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(105,50): warning C4244: "argument": konwersja z "_Ty2" do "float", możliwa utrata danych
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(105,34): warning C4244: "argument": konwersja z "_Ty1" do "float", możliwa utrata danych
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(106,31): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(142,54): warning C4244: "argument": konwersja z "_Ty2" do "float", możliwa utrata danych
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(142,38): warning C4244: "argument": konwersja z "_Ty1" do "float", możliwa utrata danych
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(143,35): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(146,63): warning C4244: "argument": konwersja z "_Ty2" do "float", możliwa utrata danych
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(146,49): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(149,68): warning C4244: "argument": konwersja z "_Ty2" do "float", możliwa utrata danych
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(149,53): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(169,50): warning C4244: "argument": konwersja z "_Ty2" do "float", możliwa utrata danych
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(169,34): warning C4244: "argument": konwersja z "_Ty1" do "float", możliwa utrata danych
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(192,50): warning C4244: "argument": konwersja z "_Ty2" do "float", możliwa utrata danych
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(192,34): warning C4244: "argument": konwersja z "_Ty1" do "float", możliwa utrata danych
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(201,50): warning C4244: "argument": konwersja z "_Ty2" do "float", możliwa utrata danych
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(201,34): warning C4244: "argument": konwersja z "_Ty1" do "float", możliwa utrata danych
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(210,50): warning C4244: "argument": konwersja z "_Ty2" do "float", możliwa utrata danych
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(210,34): warning C4244: "argument": konwersja z "_Ty1" do "float", możliwa utrata danych
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(211,31): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(218,5): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(219,9): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(237,5): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(496,5): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(536,5): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\max\source\repos\space_invaders\space_invaders\functions_and_methods.cpp(551,5): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  main.cpp
+C:\Users\max\source\repos\space_invaders\space_invaders\main.cpp(28,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  space_invaders.vcxproj -> C:\Users\max\source\repos\space_invaders\x64\Debug\space_invaders.exe
